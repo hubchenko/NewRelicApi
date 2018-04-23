@@ -1,2 +1,2 @@
 # NewRelicApi
- Powershell module to manage New Relic API
+Powershell module to manage New Relic API
